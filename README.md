@@ -1,1 +1,1 @@
-Project on GitHub Pages - (https://holosty.github.io/)[https://holosty.github.io/]
+Project on GitHub Pages - https://holosty.github.io/
